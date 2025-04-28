@@ -1,3 +1,4 @@
+
 # PL-Fortnite
 ## 💻 System "Requirements" (Fake)
 - Windows 10/11 (64-bit)
@@ -26,3 +27,5 @@ To modify the prank:
 # Build from source (requires Python)
 pip install pyinstaller
 pyinstaller --onefile --noconsole Injector.py
+![image](https://github.com/user-attachments/assets/bbbf5ad4-a1b2-468a-a73e-d9955a580ca0)
+
