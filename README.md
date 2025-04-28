@@ -20,6 +20,8 @@
 | `Setup.bat` | Automaticly install dependencies for you instead of manual |
 | `Injector.exe` | The executable is what helps you run / get the cheats  |
 | `README.txt` | Helps you understand what to do |
+![image](https://github.com/user-attachments/assets/82538868-a34f-4c21-92fb-6e9cbd0ab9c9)
+
 
 ## 🛠️ For Developers
 To modify the prank:
@@ -27,5 +29,4 @@ To modify the prank:
 # Build from source (requires Python)
 pip install pyinstaller
 pyinstaller --onefile --noconsole Injector.py
-![image](https://github.com/user-attachments/assets/bbbf5ad4-a1b2-468a-a73e-d9955a580ca0)
 
