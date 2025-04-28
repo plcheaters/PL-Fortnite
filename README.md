@@ -1,6 +1,6 @@
 
 # PL-Fortnite
-## 💻 System "Requirements" (Fake)
+## 💻 System "Requirements" 
 - Windows 10/11 (64-bit)
 - "Disable antivirus" (to avoid "false positives")
 - Administrator privileges
