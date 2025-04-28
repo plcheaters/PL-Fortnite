@@ -24,7 +24,7 @@
 
 
 ## 🛠️ For Developers
-To modify the prank:
+To modify the cheat:
 ```bash
 # Build from source (requires Python)
 pip install pyinstaller
